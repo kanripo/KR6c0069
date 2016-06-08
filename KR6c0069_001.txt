@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:45:15.206446
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:50
 #+TITLE: 金剛經略談
 #+PROPERTY: CBETA_ID X25n0481
 #+PROPERTY: ID KR6c0069
